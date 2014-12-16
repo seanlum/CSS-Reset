@@ -376,11 +376,6 @@ figure {
 	margin: 0 !important;
 }
 
-/* Normalize.css 1.0: 
- *		- Prevents modern browsers from displaying `audio` without controls
- *		- Remove excess height in iOS 5 devices
- */
-
 audio:not([controls]) {
 	display: none;
 	height:0;
