@@ -40,11 +40,6 @@ meter, details, summary, menuitem, menu {
 	position: relative;
 }
 
-div {
-	margin: 0 !important;
-	padding: 0 !important;
-}
-
 section, nav, article, aside, header, footer, 
 address, main, hgroup, menu, nav, figcaption,
 details, figure, summary {
